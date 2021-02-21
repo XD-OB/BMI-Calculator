@@ -2,9 +2,8 @@
 
 A Beautiful 'Body Mass Index' Calculator App
 
-![bmi1](/ressources/bmi1.jpg) ![bmi2](/ressources/bmi2.jpg)
-![bmi3](/ressources/bmi3.jpg) ![bmi4](/ressources/bmi4.jpg)
-![bmi5](/ressources/bmi5.jpg) ![bmi6](/ressources/bmi6.jpg)
+![bmi1](/ressources/bmi1.jpg) ![bmi2](/ressources/bmi2.jpg) ![bmi3](/ressources/bmi3.jpg)
+![bmi4](/ressources/bmi4.jpg) ![bmi5](/ressources/bmi5.jpg) ![bmi6](/ressources/bmi6.jpg)
 
 ## Owner
 
